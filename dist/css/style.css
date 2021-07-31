@@ -823,7 +823,7 @@
   padding-left: 20px;
   padding-top: 80px;
   padding-bottom: 80px;
-  background-image: url('/img/bc1.png');
+  background-image: url('img/bc1.png');
   background-position: right;
   background-repeat: no-repeat;
   max-height: 378px;
@@ -1231,7 +1231,7 @@
   margin-top: 10px;
   font-size: 22px;
   line-height: 26px;
-  list-style-image: url(/src/images/list__icon.svg);
+  list-style-image: url('/img/list__icon.svg');
   /* White */
   color: #FFFFFF;
 }
