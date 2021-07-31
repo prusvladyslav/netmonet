@@ -823,7 +823,7 @@
   padding-left: 20px;
   padding-top: 80px;
   padding-bottom: 80px;
-  background-image: url(/src/images/bc1.png);
+  background-image: url('/img/bc1.png');
   background-position: right;
   background-repeat: no-repeat;
   max-height: 378px;
